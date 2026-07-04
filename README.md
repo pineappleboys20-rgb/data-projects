@@ -1,2 +1,2 @@
-# DS-projects
-just my ds projects
+# Data projects
+just my data projects
